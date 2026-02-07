@@ -3,7 +3,7 @@ pipeline {
  stages {
  stage('Checkout Code') {
  steps {
- git 'https://github.com/Thulasiraman0/Pro_Task'
+ git 'https://github.com/Thulasiraman0/Calculatorpy'
  }
  }
  stage('Read File') {
